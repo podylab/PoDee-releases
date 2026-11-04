@@ -8,6 +8,7 @@ PoDy, маленькое облачко.
 <p align="center"><img src="media/island-home.png" alt="Главная острова в тёмном и стеклянном виде" width="900"></p>
 
 **[Скачать установщик](https://github.com/podylab/PoDee-releases/releases/latest)**: Windows 10/11.
+Собирается под вас: каждая часть — модуль, а виджеты и блоки панели задач ставятся куда угодно.
 Всё о PoDee: [podylab.github.io](https://podylab.github.io). [Ролик на полминуты](media/podee-promo.mp4).
 
 Здесь лежат только выпуски PoDee. Скачайте `PoDee_X.Y.Z_x64-setup.exe` (или `_x86-setup.exe`
@@ -15,6 +16,7 @@ PoDy, маленькое облачко.
 выйдет новая версия, остров скажет об этом, а кнопка «Обновить» в «Настройках → О программе»
 поставит её.
 
+<p align="center"><img src="media/taskbar-blocks.png" alt="Панель задач из блоков: части и виджеты на любом месте" width="900"></p>
 <p align="center"><img src="media/taskbar.png" alt="Панель задач PoDee: «Панель», «Чёлка» и стеклянная «Чёлка»" width="900"></p>
 <p align="center"><img src="media/widgets-music.png" alt="Визуализаторы музыки, «Сейчас играет», пластинка" width="900"></p>
 <p align="center"><img src="media/widgets-more.png" alt="Батареи, таймер фокуса, отсчёт, прогресс, нагрузка, переключатели, цитата, солнце и луна, погода" width="900"></p>
