@@ -17,7 +17,7 @@ PoDy, маленькое облачко.
 поставит её.
 
 <p align="center"><img src="media/taskbar-blocks.png" alt="Панель задач из блоков: части и виджеты на любом месте" width="900"></p>
-<p align="center"><img src="media/taskbar.png" alt="Панель задач PoDee: «Панель», «Чёлка» и стеклянная «Чёлка»" width="900"></p>
+<p align="center"><img src="media/taskbar.png" alt="Панель задач PoDee: «Панель», «Чёлка», «Наплыв» и стеклянный «Наплыв»" width="900"></p>
 <p align="center"><img src="media/widgets-music.png" alt="Визуализаторы музыки, «Сейчас играет», пластинка" width="900"></p>
 <p align="center"><img src="media/widgets-more.png" alt="Батареи, таймер фокуса, отсчёт, прогресс, нагрузка, переключатели, цитата, солнце и луна, погода" width="900"></p>
 <p align="center"><img src="media/widgets-earth.png" alt="Земля: день и ночь — глобус и карта мира" width="620"></p>
